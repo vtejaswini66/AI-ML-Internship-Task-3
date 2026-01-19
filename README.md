@@ -15,7 +15,7 @@ To understand data patterns, relationships, and important features using visuali
 
 ## Datasets Used
 - Netflix Movies and TV Shows (Kaggle)
-- Iris Dataset (sklearn / Kaggle)
+- Iris Dataset (sklearn)
 
 ## Files Included
 - task3_eda.ipynb – EDA notebook with visualizations
